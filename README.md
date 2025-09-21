@@ -18,5 +18,5 @@ If you use this dataset, please cite our paper:
   author  = {Amiraz, Chen and Fyodorov, Yaroslav and Haramaty, Elad and Karnin, Zohar and Lewin-Eytan, Liane},
   journal = {arXiv preprint arXiv:2507.07543},
   year    = {2025},
-  note    = {Accepted at ArabicNLP 2025}
+  note    = {Accepted to ArabicNLP 2025}
 }
