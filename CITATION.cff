@@ -2,22 +2,22 @@ cff-version: 1.2.0
 title: "The Cross-Lingual Cost Dataset"
 version: "1.0.0"
 license: "CC-BY-4.0"
-message: "If you use this dataset, please cite our paper (accepted at ArabicNLP 2025):"
-references:
-  - type: article
-    title: "The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora"
-    authors:
-      - family-names: "Amiraz"
-        given-names: "Chen"
-      - family-names: "Fyodorov"
-        given-names: "Yaroslav"
-      - family-names: "Haramaty"
-        given-names: "Elad"
-      - family-names: "Karnin"
-        given-names: "Zohar"
-      - family-names: "Lewin-Eytan"
-        given-names: "Liane"
-    year: 2025
-    journal: "arXiv preprint arXiv:2507.07543"
-    notes: "Accepted at ArabicNLP 2025"
-    doi: "10.48550/arXiv.2507.07543"
+message: "If you use this dataset, please cite our paper:"
+preferred-citation:
+  type: article
+  title: "The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora"
+  authors:
+    - family-names: "Amiraz"
+      given-names: "Chen"
+    - family-names: "Fyodorov"
+      given-names: "Yaroslav"
+    - family-names: "Haramaty"
+      given-names: "Elad"
+    - family-names: "Karnin"
+      given-names: "Zohar"
+    - family-names: "Lewin-Eytan"
+      given-names: "Liane"
+  year: 2025
+  journal: "arXiv"
+  volume: "preprint arXiv:2507.07543"
+  doi: "10.48550/arXiv.2507.07543"
